@@ -51,7 +51,7 @@ const Navbar: React.FC = () => {
           onClick={closeMenu}
         >
           <Code size={24} />
-          <span>DevPortfolio</span>
+          <span></span>
         </NavLink>
 
         {/* Desktop Navigation */}

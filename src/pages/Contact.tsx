@@ -79,7 +79,7 @@ const Contact: React.FC = () => {
                       </div>
                       <div>
                         <h3 className="font-medium mb-1">Email</h3>
-                        <p className="text-blue-100">contact@devportfolio.com</p>
+                        <p className="text-blue-100">amatorioarjay@gmail.com</p>
                       </div>
                     </div>
                     
@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
                       </div>
                       <div>
                         <h3 className="font-medium mb-1">Phone</h3>
-                        <p className="text-blue-100">(123) 456-7890</p>
+                        <p className="text-blue-100">(+63) 991 567 1400</p>
                       </div>
                     </div>
                     
@@ -99,7 +99,7 @@ const Contact: React.FC = () => {
                       </div>
                       <div>
                         <h3 className="font-medium mb-1">Location</h3>
-                        <p className="text-blue-100">San Francisco, CA</p>
+                        <p className="text-blue-100">Cavite, Philippines</p>
                       </div>
                     </div>
                   </div>
@@ -228,7 +228,7 @@ const Contact: React.FC = () => {
             <h2 className="text-2xl font-bold mb-8 text-center">Find Me Here</h2>
             <div className="rounded-lg overflow-hidden shadow-md h-[400px] bg-gray-200">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555014095!2d-122.50764097119142!3d37.75781499229416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1651176145152!5m2!1sen!2sus"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d494914.6764933452!2d120.48971178842316!3d14.281139316213892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d4eae8163c71%3A0xf0c4d0843bdde727!2sCavite!5e0!3m2!1sen!2sph!4v1746366953012!5m2!1sen!2sph"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

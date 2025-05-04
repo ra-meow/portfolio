@@ -265,25 +265,14 @@ const About: React.FC = () => {
                 </h3>
                 
                 <div className="space-y-8">
-                  <div className="relative pl-8 border-l-2 border-blue-200 pb-8">
-                    <div className="absolute -left-2.5 top-0 w-5 h-5 rounded-full bg-blue-600"></div>
-                    <div>
-                      <span className="text-sm font-medium text-blue-600 mb-1 block">2018 - 2020</span>
-                      <h4 className="text-lg font-bold mb-1">Master's in Computer Science</h4>
-                      <p className="text-gray-600 mb-1">Stanford University</p>
-                      <p className="text-gray-700">
-                        Specialized in Human-Computer Interaction and Web Technologies.
-                        Graduate thesis on optimizing user interfaces for accessibility.
-                      </p>
-                    </div>
-                  </div>
+                  
                   
                   <div className="relative pl-8 border-l-2 border-blue-200 pb-8">
                     <div className="absolute -left-2.5 top-0 w-5 h-5 rounded-full bg-blue-600"></div>
                     <div>
                       <span className="text-sm font-medium text-blue-600 mb-1 block">2014 - 2018</span>
                       <h4 className="text-lg font-bold mb-1">Bachelor's in Computer Science</h4>
-                      <p className="text-gray-600 mb-1">University of California, Berkeley</p>
+                      <p className="text-gray-600 mb-1">NCST</p>
                       <p className="text-gray-700">
                         Graduated with honors. Participated in multiple hackathons and 
                         web development competitions.

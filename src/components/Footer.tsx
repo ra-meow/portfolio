@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col space-y-4">
             <NavLink to="/" className="flex items-center space-x-2 w-fit">
               <Code size={24} className="text-blue-400" />
-              <span className="font-bold text-xl">DevPortfolio</span>
+              <span className="font-bold text-xl">RA</span>
             </NavLink>
             <p className="text-gray-400 max-w-xs">
               Creating elegant, functional, and responsive web experiences.
@@ -82,8 +82,8 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="font-medium text-lg mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>contact@devportfolio.com</li>
-              <li>San Francisco, CA</li>
+              <li>amatorioarjay@gmail.com</li>
+              <li>Cavite, Philippines</li>
             </ul>
           </div>
         </div>
@@ -91,10 +91,10 @@ const Footer: React.FC = () => {
         {/* Copyright */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {currentYear} DevPortfolio. All rights reserved.
+            © {currentYear} All rights reserved.
           </p>
           <p className="text-gray-400 text-sm flex items-center mt-4 md:mt-0">
-            Made with <Heart size={16} className="mx-1 text-red-500" /> by DevPortfolio
+            Made with <Heart size={16} className="mx-1 text-red-500" /> by Arjay
           </p>
         </div>
       </div>
